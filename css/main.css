@@ -1203,6 +1203,17 @@ p:last-child {
   background-color: #4c4394;
 }
 
+.yellow{
+  border: solid 2px #fbbe0a;
+  border-radius: 59px;
+  text-align: center;
+  width: 30%;
+  justify-content: center;
+  padding: 10px;
+  /* margin-left: 190px; */
+  background-color:#fbbe0a;
+}
+
 /* -----------------------------------------------------------------------------
 
 # Tools - Divider
